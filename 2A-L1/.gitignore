@@ -1,0 +1,7 @@
+.idea/*
+
+build
+lib/*
+bin/*
+
+.DS_Store
